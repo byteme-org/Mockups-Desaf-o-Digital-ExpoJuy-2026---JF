@@ -26,21 +26,7 @@ cd [repo]
 open index.html   # en Windows: start index.html
 ```
 
-Todo corre con Tailwind CSS por CDN y JavaScript vanilla — sin build, sin dependencias, sin dramas.
-
-## 🛠️ Stack
-
-- HTML5 + Tailwind CSS (vía CDN)
-- JavaScript vanilla (filtro de expositores, countdown, acordeón de FAQ, menú mobile)
-- Google Fonts (Space Grotesk + Inter)
-
-Al ser solo la etapa de mockup, el sitio no tiene backend ni datos reales todavía — los expositores, noticias y fecha de countdown son de ejemplo.
-
-## 🎨 Pendiente para la próxima etapa
-
-- Reemplazar la paleta de colores por la del Kit de Diseño oficial de ExpoJuy
-- Cargar expositores, noticias y agenda reales
-- Sumar el mapa interactivo del predio
+Todo corre con Tailwind CSS por CDN — sin build, sin dependencias, sin dramas.
 
 ---
 
