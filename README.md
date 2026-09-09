@@ -44,4 +44,4 @@ Al ser solo la etapa de mockup, el sitio no tiene backend ni datos reales todav�
 
 ---
 
-Hecho con mate y poco sueño para el Desafío Digital ExpoJuy 2026. 🧉
+Si falta código, nos lo comimos 🫦
