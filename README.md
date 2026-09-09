@@ -9,9 +9,6 @@ Esta es la etapa de **propuesta conceptual y visual**: no es el sitio final, sin
 - Jorge Vilca
 - Francisco Mendoza
 
-## 🌄 La idea
-
-Jujuy tiene los colores del Cerro de los Siete Colores, así que arrancamos por ahí: una paleta cálida (terracota, ocre, teal, noche) en vez del típico azul corporativo, tipografía con carácter (Space Grotesk + Inter), y una estructura pensada para que cualquier visitante — sea una cooperativa, una empresa de tecnología o alguien que solo quiere saber cómo llegar — encuentre lo que busca en pocos clics.
 
 ## 🧭 Secciones
 
