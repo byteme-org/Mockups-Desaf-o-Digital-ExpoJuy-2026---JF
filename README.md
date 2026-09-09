@@ -16,7 +16,7 @@ Inicio · Sobre ExpoJuy 2026 · Expositores (con filtro por rubro) · Agenda de 
 
 ## 🚀 Ver la propuesta
 
-**Versión online (recomendado):** [🔗 link de GitHub Pages acá]
+**Versión online (recomendado):** [ https://byteme-org.github.io/Mockups-Desaf-o-Digital-ExpoJuy-2026---JF/ ]
 
 **En tu compu:** no hace falta instalar nada. Cloná el repo y abrí `index.html` en el navegador.
 
